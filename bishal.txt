@@ -2,10 +2,8 @@
 2. My name is Deepak Poudel
 3.I am from Nepal.
 4. Bishal : My age is 20
-<<<<<<< HEAD
-5. Bishal : My roll number is 35
-6. Bishal : I am student
-=======
 5.I am 21 by the way
 6.I am testing my age in branch
->>>>>>> f2973da0567a931fd8682f5de0234d3252743a34
+
+
+Commit from mergeTest
